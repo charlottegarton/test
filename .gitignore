@@ -1,0 +1,6 @@
+# Files that git should not track
+# Copy this template to your git-initiated project directory and rename to .gitignore
+
+00_raw/
+01_ref/
+# Add more directories that you do not want git to track i.e. large files that should not be uploaded to a remote repository on GitHub
